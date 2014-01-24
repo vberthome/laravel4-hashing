@@ -1,6 +1,6 @@
 {
-    "name": "robclancy/laravel4-hashing",
-    "description": "Package for when you can't use Bcrypt in Laravel 4.",
+    "name": "robclancy/laravel41-hashing",
+    "description": "Package for when you can't use Bcrypt in Laravel 4.1.",
     "keywords": ["hashing", "password", "laravel"],
     "license": "DBAD",
     "authors": [
